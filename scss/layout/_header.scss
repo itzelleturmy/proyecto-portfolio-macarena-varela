@@ -1,0 +1,25 @@
+header{
+    text-decoration: none;
+    background-color: white;
+	nav {
+		ul {
+			display: flex;
+			justify-content: flex-end;
+			list-style: none;
+			li {
+				margin: 10px;
+				padding: 5px;
+				a {
+					text-decoration: none;
+					color: rgb(2, 2, 2);
+				}
+			}
+		}
+	}
+}
+
+h1{
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
